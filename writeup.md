@@ -25,7 +25,7 @@ The goals / steps of this project are the following:
 [img10]: ./images/histogram.png "Hisrogram"
 [img11]: ./images/sliding_window.png "Sliding Window"
 [img12]: ./images/unwrap.png "Final"
-[img13]: ./images/fitting.jpg "Fitting"
+[img13]: ./images/fit_line.jpg "Fitting"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
