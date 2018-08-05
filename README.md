@@ -11,6 +11,8 @@ The goals / steps of this project are the following:
 * Warp the detected lane boundaries back onto the original image.
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
+![video][img14]
+
 [//]: # (Image References)
 
 [img1]: ./images/chessboard_corner.png "chessboard corner"
@@ -26,6 +28,7 @@ The goals / steps of this project are the following:
 [img11]: ./images/sliding_window.png "Sliding Window"
 [img12]: ./images/unwrap.png "Final"
 [img13]: ./images/fit_line.jpg "Fitting"
+[img14]: ./images/video.gif "video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
@@ -403,7 +406,7 @@ Here's a [link to my video result](./project_video_output.mp4)
 
 Also in youtube: https://youtu.be/NfRKwuZLWsI
 
-
+![video][img14]
 
 ---
 
