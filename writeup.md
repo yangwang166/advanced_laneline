@@ -13,8 +13,6 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[video1]: ./project_video_output.mp4 "Video"
-
 [img1]: ./images/chessboard_corner.png "chessboard corner"
 [img2]: ./images/chessboard_distortion.png "chessboard distortion"
 [img3]: ./images/test_distortion.png "test distortion"
@@ -402,9 +400,6 @@ Here is an example of my result on a test image:
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
 Here's a [link to my video result](./project_video_output.mp4)
-
-![Video][video1]
-
 
 Also in youtube: https://youtu.be/NfRKwuZLWsI
 

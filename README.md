@@ -13,8 +13,6 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[video1]: ./project_video_output.mp4 "Video"
-
 [img1]: ./images/chessboard_corner.png "chessboard corner"
 [img2]: ./images/chessboard_distortion.png "chessboard distortion"
 [img3]: ./images/test_distortion.png "test distortion"
