@@ -27,7 +27,7 @@ The goals / steps of this project are the following:
 [img10]: ./images/histogram.png "Hisrogram"
 [img11]: ./images/sliding_window.png "Sliding Window"
 [img12]: ./images/unwrap.png "Final"
-[video1]: ./project_video.mp4 "Video"
+[img13]: ./images/fitting.jpg "Fitting"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
@@ -350,7 +350,7 @@ After that, I using a `Sliding Window` technique to find the pixels belong to th
 
 And Finally, I fit my lane lines with a 2nd order polynomial kinda like this:
 
-![alt text][image5]
+![Fitting][img13]
 
 
 
@@ -402,8 +402,6 @@ Here is an example of my result on a test image:
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
 Here's a [link to my video result](./project_video_output.mp4)
-
-![Video][video1]
 
 Also in youtube: https://youtu.be/NfRKwuZLWsI
 
