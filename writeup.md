@@ -403,6 +403,9 @@ Here is an example of my result on a test image:
 
 Here's a [link to my video result](./project_video_output.mp4)
 
+![Video][video1]
+
+
 Also in youtube: https://youtu.be/NfRKwuZLWsI
 
 
