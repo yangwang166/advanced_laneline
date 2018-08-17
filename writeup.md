@@ -430,3 +430,5 @@ My OS: Ubuntu 16.04
 * Download https://github.com/imageio/imageio-binaries/raw/master/ffmpeg/ffmpeg-linux64-v3.3.1
 * Save it to filename:  /home/yourname/.imageio/ffmpeg/ffmpeg-linux64-v3.3.1
 * run `pip install requests`
+
+Yang
